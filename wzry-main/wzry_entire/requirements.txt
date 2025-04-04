@@ -1,0 +1,17 @@
+numpy~=2.2.3
+opencv-python~=4.10.0.84
+psutil~=6.1.1
+gym~=0.26.2
+pynput~=1.7.8
+openai~=1.57.4
+PyQt5~=5.15.11
+pillow~=11.0.0
+ultralytics~=8.3.69
+pytesseract~=0.3.13
+pywin32==308
+
+
+
+
+
+
